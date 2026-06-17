@@ -21,6 +21,5 @@
   ],
   "vars": {
     "ENABLE_CRON": "false",
-    "PAGES_URL": "https://nova-proxy.arminmazoochian.workers.dev"
   }
 }
